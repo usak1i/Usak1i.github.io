@@ -1,5 +1,8 @@
 {
-  "name": "adorable-parsec",
+  "name": "usak1i-blog",
+  "pnpm": {
+    "onlyBuiltDependencies": ["esbuild", "sharp"]
+  },
   "type": "module",
   "version": "5.5.1",
   "scripts": {
